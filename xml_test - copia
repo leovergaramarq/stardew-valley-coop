@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" ?>
+<root>
+	<player>
+		<name>Player</name>
+	</player>
+	<farmhand>
+		<name>F1</name>
+	</farmhand>
+	<farmhand>
+		<name>F2</name>
+	</farmhand>
+</root>
