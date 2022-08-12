@@ -1,0 +1,1 @@
+Copia los run.bat y script.py a la carpeta del mundo. Ejecuta el .bat y reza para que no se dañe la partida.
