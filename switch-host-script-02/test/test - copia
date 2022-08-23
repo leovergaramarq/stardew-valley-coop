@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+	<player>
+			<name>F2</name>
+		</player>	
+	<indoors>
+		<farmhand>
+			<name>F1</name>
+		</farmhand>	
+	</indoors>
+	<indoors>
+		<farmhand>
+		<name>Player</name>
+	</farmhand>
+	</indoors>
+</root>
